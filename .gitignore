@@ -97,3 +97,4 @@ db.sqlite3
 # Removing migrations
 blog/migrations/*
 home/migrations/*
+warehouse/migrations/*
