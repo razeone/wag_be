@@ -7,7 +7,7 @@
 virtualenv -p python3.5 env
 source env/bin/activate
 pip install -r requirements
-./manage.py makemigrations && ./manage.py migrate && ./manage.py createsuperuser
+./manage.py makemigrations home blog && ./manage.py migrate && ./manage.py createsuperuser
 ./manage.py runserver
 ```
 
