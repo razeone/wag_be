@@ -95,5 +95,5 @@ db.sqlite3
 *.pyc
 
 # Removing migrations
-blog/migrations/
-home/mirgations/
+blog/migrations/*
+home/mirgations/*
