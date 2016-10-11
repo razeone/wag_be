@@ -93,3 +93,6 @@ db.sqlite3
 
 # pyc files
 *.pyc
+
+# Removing migrations
+blog/migrations/*
